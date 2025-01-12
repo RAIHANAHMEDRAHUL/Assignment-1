@@ -95,7 +95,6 @@ width: 622px;
     color: rgb(14, 14, 14);
     font-size: 40px;
     font-weight: 700;
-    /* text-align: left; */
 }
 .margin-top{
     margin-top: 80px;
@@ -201,3 +200,32 @@ top: 1px;
     background-color:rgb(255, 194, 57) ;
 }
 /*--------- */
+/* yunus er styles */
+.yunus{
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0px 6px 55px 0px rgba(0, 0, 0, 0.06);
+    width: 1376px;
+    height: auto;
+    margin-top:-98px ;
+    margin-bottom: 80px;
+}
+.yunus-img{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 22px;
+}
+.yu-ti{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: -12px;
+}
+    
+.yu-des{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: -4px;
+   
+}
